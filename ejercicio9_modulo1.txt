@@ -1,0 +1,2 @@
+Msg 911, Level 16, State 1, Server 12a443d2ea47, Line 1
+Database 'adventureworks' does not exist. Make sure that the name is entered correctly.
